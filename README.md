@@ -1,1 +1,4 @@
-# Algoritomos-Capgemini
+# ****Questões do exame
+####Coloquei nos arquivos de acordo com a sua questão então Questao1 e o algoritimo da primeira questão e o Questao2 e assim com a 3 questão.
+
+#####**** Sou novo na aréa tenho so mesmo os estudos que estou querendo muito ingressar na carreira de programador pois gosto dos desafios dos codígos trazem a maneira com que fazem minha mente pensar de forma rápida e precisa, gostaria de uma oportunidade para ter um treinamento sobre a área ja que no momento não tenho capacidade de estar fazendo um curso presencial, mas assisto muitos cursos online e pratico bastante a digitação.
